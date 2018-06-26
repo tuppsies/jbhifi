@@ -1,0 +1,1340 @@
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/other/breville/breville-ezy-carve-electric-knife/34004/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/other/breville/breville-ezy-carve-electric-knife/34004/ HTTP/1.1" 200 27285
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/coffee-machines/sunbeam/sunbeam-em0180-cafe-creamy-automatic-milk-frother/65702/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/coffee-machines/sunbeam/sunbeam-em0180-cafe-creamy-automatic-milk-frother/65702/ HTTP/1.1" 200 28075
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/coffee-machines/breville/breville-the-infuser-coffee-machine/84636/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/coffee-machines/breville/breville-the-infuser-coffee-machine/84636/ HTTP/1.1" 200 26144
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/laundry/asko/asko-t754chp-7kg-heat-pump-dryer/343186/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/laundry/asko/asko-t754chp-7kg-heat-pump-dryer/343186/ HTTP/1.1" 200 28218
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/Lenses/canon/canon-ef-24-70mm-f-2-8l-ii-usm-standard-zoom-lens/84138/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/Lenses/canon/canon-ef-24-70mm-f-2-8l-ii-usm-standard-zoom-lens/84138/ HTTP/1.1" 200 26055
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/apple/apple-airport-extreme/422830/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/apple/apple-airport-extreme/422830/ HTTP/1.1" 200 25202
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/sony/sony-mdre9lpb-in-ear-headphones-black/70412/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/sony/sony-mdre9lpb-in-ear-headphones-black/70412/ HTTP/1.1" 200 26043
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/all-computers--tablets/lexar/lexarjumpdrive-s75-usb-3-0-64gb-green/407659/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/lexar/lexarjumpdrive-s75-usb-3-0-64gb-green/407659/ HTTP/1.1" 200 26758
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/nintendo-3ds/luigis-mansion-2/295724/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/nintendo-3ds/luigis-mansion-2/295724/ HTTP/1.1" 200 26720
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/ink--toner/hp/hp-564-print-cartridge-black/49141/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/hp/hp-564-print-cartridge-black/49141/ HTTP/1.1" 200 24786
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/Home-Phones/uniden/uniden-ss-e353-visual-hearing-impaired-cordless-phone-system/90255/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/Home-Phones/uniden/uniden-ss-e353-visual-hearing-impaired-cordless-phone-system/90255/ HTTP/1.1" 200 27564
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/belkin/belkin-f8v203-06gld-ap-mini-stereo-cable-for-ipod-and-iphone/15135/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/belkin/belkin-f8v203-06gld-ap-mini-stereo-cable-for-ipod-and-iphone/15135/ HTTP/1.1" 200 24568
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/nintendo-3ds/fire-emblem-awakening/319259/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/nintendo-3ds/fire-emblem-awakening/319259/ HTTP/1.1" 200 28853
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/comedy/my-australian-roots/82301/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/comedy/my-australian-roots/82301/ HTTP/1.1" 200 24332
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/western/dead-aim/271003/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/western/dead-aim/271003/ HTTP/1.1" 200 26208
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/michelle-bridges-project-ripped/346214/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/michelle-bridges-project-ripped/346214/ HTTP/1.1" 200 26884
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/war/act-of-valour/302488/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/war/act-of-valour/302488/ HTTP/1.1" 200 26966
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-anime/fairy-tail-collection-1/287861/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-anime/fairy-tail-collection-1/287861/ HTTP/1.1" 200 26749
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/yes-prime-minster-series-1-2/857497/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/yes-prime-minster-series-1-2/857497/ HTTP/1.1" 200 27529
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-lifestyle/pohs-kitchen-passion/268569/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-lifestyle/pohs-kitchen-passion/268569/ HTTP/1.1" 200 26273
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-ap316-5-1-4-to-6-1-2-spacer/1900/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-ap316-5-1-4-to-6-1-2-spacer/1900/ HTTP/1.1" 200 24197
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/thriller/oceans-trilogy/267828/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/thriller/oceans-trilogy/267828/ HTTP/1.1" 200 28484
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/musical/hairspray-special-edition/206137/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/musical/hairspray-special-edition/206137/ HTTP/1.1" 200 26647
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/childrens/never-ending-lullaby-the/309381/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/childrens/never-ending-lullaby-the/309381/ HTTP/1.1" 200 24167
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/comedy/bridesmaids/308894/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/comedy/bridesmaids/308894/ HTTP/1.1" 200 26725
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/tv-accessories/jackson/jackson-4-way-surge-protection-powerboard-with-2-x-spaced-sockets/86893/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/tv-accessories/jackson/jackson-4-way-surge-protection-powerboard-with-2-x-spaced-sockets/86893/ HTTP/1.1" 200 24585
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/romance/sliding-doors/286128/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/romance/sliding-doors/286128/ HTTP/1.1" 200 27192
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-app085-iso-wiring-harness-for-hyundai-kia/71547/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-app085-iso-wiring-harness-for-hyundai-kia/71547/ HTTP/1.1" 200 24359
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/10-minute-solution/385462/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/10-minute-solution/385462/ HTTP/1.1" 200 26519
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/classics/its-a-wonderful-life/262290/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/classics/its-a-wonderful-life/262290/ HTTP/1.1" 200 26173
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/war/bridge-on-the-river-kwai/159026/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/war/bridge-on-the-river-kwai/159026/ HTTP/1.1" 200 26644
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /musical-instruments/korg/korg-sp-170swh-digital-piano-white/99975/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /musical-instruments/korg/korg-sp-170swh-digital-piano-white/99975/ HTTP/1.1" 200 29568
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/american-horror-story-season-1/308188/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/american-horror-story-season-1/308188/ HTTP/1.1" 200 29850
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-alf060-mini-anl-fuse-60-amp/98421/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-alf060-mini-anl-fuse-60-amp/98421/ HTTP/1.1" 200 24105
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/all-tv--home-entertainment/logitech/logitch-z906-500-watt-5-1-home-theatre-system/69909/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/all-tv--home-entertainment/logitech/logitch-z906-500-watt-5-1-home-theatre-system/69909/ HTTP/1.1" 200 27130
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/classics/streetcar-named-desire-a/148299/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/classics/streetcar-named-desire-a/148299/ HTTP/1.1" 200 28145
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/musical/jailhouse-rock/158289/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/musical/jailhouse-rock/158289/ HTTP/1.1" 200 27035
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/hip-hop/best-of-the/275922/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/hip-hop/best-of-the/275922/ HTTP/1.1" 200 24896
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/hitchiker-the-seasons-1-2/202165/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/hitchiker-the-seasons-1-2/202165/ HTTP/1.1" 200 27413
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/game-of-thrones-season-2/393699/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/game-of-thrones-season-2/393699/ HTTP/1.1" 200 28225
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/denise-austin-quick-burn-cardio/306753/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/denise-austin-quick-burn-cardio/306753/ HTTP/1.1" 200 26764
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/jam-jerusalem-the-complete-series-1-3/289357/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/jam-jerusalem-the-complete-series-1-3/289357/ HTTP/1.1" 200 27226
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-fp9042-facia-and-pocket-with-dual-usb-port-for-ford-falcon-ba-bf/51356/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-fp9042-facia-and-pocket-with-dual-usb-port-for-ford-falcon-ba-bf/51356/ HTTP/1.1" 200 24707
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/christmas/rb-christmas-hits/259081/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/christmas/rb-christmas-hits/259081/ HTTP/1.1" 200 24297
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-ap612-8-gauge-ring-terminal/1860/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-ap612-8-gauge-ring-terminal/1860/ HTTP/1.1" 200 24387
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/sony/sony-sony8ga-8-gauge-amp-kit/366668/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/sony/sony-sony8ga-8-gauge-amp-kit/366668/ HTTP/1.1" 200 24175
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/pa-speakers/hk-audio/hk-audio-lucas-nano-300-portable-pa-system/90394/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/pa-speakers/hk-audio/hk-audio-lucas-nano-300-portable-pa-system/90394/ HTTP/1.1" 200 29587
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/forrest-gump/293070/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/forrest-gump/293070/ HTTP/1.1" 200 27044
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/10-minute-solution-dance-off-belly-fat/267601/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/10-minute-solution-dance-off-belly-fat/267601/ HTTP/1.1" 200 26107
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/crunch-pick-your-spot-pilates/396584/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/crunch-pick-your-spot-pilates/396584/ HTTP/1.1" 200 26522
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/friends-the-complete-series/430337/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/friends-the-complete-series/430337/ HTTP/1.1" 200 30929
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/childrens/super-buddies/448425/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/childrens/super-buddies/448425/ HTTP/1.1" 200 27200
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/apple/apple-macbook-air-13-128gb/452749/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/apple/apple-macbook-air-13-128gb/452749/ HTTP/1.1" 200 29750
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/alternative/we-were-here/455746/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/alternative/we-were-here/455746/ HTTP/1.1" 200 27540
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/cooking/electrolux/electrolux-ehg643sa-600mm-gas-cooktop/464044/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/cooking/electrolux/electrolux-ehg643sa-600mm-gas-cooktop/464044/ HTTP/1.1" 200 28013
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/action/x-men-origins-wolverine-the-wolverine/468133/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/action/x-men-origins-wolverine-the-wolverine/468133/ HTTP/1.1" 200 28621
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/dance-moms-season-2-collection-1/481627/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/dance-moms-season-2-collection-1/481627/ HTTP/1.1" 200 27642
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/action/avengers-the/489562/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/action/avengers-the/489562/ HTTP/1.1" 200 27573
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/all-computers--tablets/seagate/seagate-backup-plus-slim-1tb-portable-drive-blue/505437/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/seagate/seagate-backup-plus-slim-1tb-portable-drive-blue/505437/ HTTP/1.1" 200 26988
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/grimm-season-2/510047/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/grimm-season-2/510047/ HTTP/1.1" 200 28294
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/bedlam-series-1/514412/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/bedlam-series-1/514412/ HTTP/1.1" 200 27413
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/evolve/520947/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/evolve/520947/ HTTP/1.1" 200 27711
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/alpine/alpine-cde-153ebt-200w-car-cd-receiver/527887/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/alpine/alpine-cde-153ebt-200w-car-cd-receiver/527887/ HTTP/1.1" 200 26014
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/jazz-folk/solid-air-vinyl-import/533861/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/jazz-folk/solid-air-vinyl-import/533861/ HTTP/1.1" 200 23964
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/kitchen-appliances/breville/breville-the-hot-wok-steam/538829/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/kitchen-appliances/breville/breville-the-hot-wok-steam/538829/ HTTP/1.1" 200 29297
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/vicar-of-dibley-the-immaculate-collection/541617/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/vicar-of-dibley-the-immaculate-collection/541617/ HTTP/1.1" 200 28768
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/camera-accessories/x80/kaiser-baas-x80-vented-helmet-strap/554334/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/camera-accessories/x80/kaiser-baas-x80-vented-helmet-strap/554334/ HTTP/1.1" 200 24142
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/camera-accessories/sp-gadgets/sp-gadgets-40-remote-pole-for-gopro/562414/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/camera-accessories/sp-gadgets/sp-gadgets-40-remote-pole-for-gopro/562414/ HTTP/1.1" 200 25249
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/war/monuments-men-the/564946/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/war/monuments-men-the/564946/ HTTP/1.1" 200 27182
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/sony/sony-zx310-sound-monitoring-over-ear-headphones-black/570921/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/sony/sony-zx310-sound-monitoring-over-ear-headphones-black/570921/ HTTP/1.1" 200 27087
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/kicker/kicker-kss654-6-5-car-speakers/576069/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/kicker/kicker-kss654-6-5-car-speakers/576069/ HTTP/1.1" 200 24913
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/xbox-one/tom-clancys-rainbow-six-siege/578343/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/xbox-one/tom-clancys-rainbow-six-siege/578343/ HTTP/1.1" 200 30414
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/land-of-the-giants-season-1/581396/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/land-of-the-giants-season-1/581396/ HTTP/1.1" 200 27689
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/skullcandy/skullcandy-jib-in-ear-headphones-blue/587750/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/skullcandy/skullcandy-jib-in-ear-headphones-blue/587750/ HTTP/1.1" 200 27214
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/tomtom/tomtom-runner-cardio-sport-watch-white-red/604045/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/tomtom/tomtom-runner-cardio-sport-watch-white-red/604045/ HTTP/1.1" 200 26264
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/comedy/1s-and-2s-the-the-best-of-buddy-goode/607503/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/comedy/1s-and-2s-the-the-best-of-buddy-goode/607503/ HTTP/1.1" 200 25576
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-aph359-suction-mount-holder/611453/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-aph359-suction-mount-holder/611453/ HTTP/1.1" 200 24187
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/western/journey-to-shiloh/611215/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/western/journey-to-shiloh/611215/ HTTP/1.1" 200 26632
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/car-audio-accessories/aerpro/aerpro-aph364-phone-holder-with-2-1amp-usb-charger/618604/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/car-audio-accessories/aerpro/aerpro-aph364-phone-holder-with-2-1amp-usb-charger/618604/ HTTP/1.1" 200 24359
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/childrens/santa-claws/616833/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/childrens/santa-claws/616833/ HTTP/1.1" 200 27027
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/there-will-be-blood/624250/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/there-will-be-blood/624250/ HTTP/1.1" 200 27852
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/pc-game/middle-earth-shadow-of-mordor/638681/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/pc-game/middle-earth-shadow-of-mordor/638681/ HTTP/1.1" 200 27904
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/western/young-guns/638197/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/western/young-guns/638197/ HTTP/1.1" 200 26286
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/continuum-season-3/637890/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/continuum-season-3/637890/ HTTP/1.1" 200 27445
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/hisense/hisense-hr6cf206-206l-chest-freezer-white/644941/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/hisense/hisense-hr6cf206-206l-chest-freezer-white/644941/ HTTP/1.1" 200 28423
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/element-daily-yoga/644557/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/element-daily-yoga/644557/ HTTP/1.1" 200 26477
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/amiibo/nintendo-amiibo-captain-falcon-figure/649497/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/amiibo/nintendo-amiibo-captain-falcon-figure/649497/ HTTP/1.1" 200 26705
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/compact-cameras/fujifilm/fujifilm-instax-mini-8-instant-camera-blue/651441/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/compact-cameras/fujifilm/fujifilm-instax-mini-8-instant-camera-blue/651441/ HTTP/1.1" 200 27444
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/dj-controllers-decks/traktor/traktor-kontrol-s8-dj-controller/800008/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/dj-controllers-decks/traktor/traktor-kontrol-s8-dj-controller/800008/ HTTP/1.1" 200 29708
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/accessories/apple/apple-ipad-mini-smart-case-black/662533/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/apple/apple-ipad-mini-smart-case-black/662533/ HTTP/1.1" 200 25570
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/game-of-thrones-season-4/660958/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/game-of-thrones-season-4/660958/ HTTP/1.1" 200 30438
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /musical-instruments/tribute/tribute-21-soprano-ukulele-bag/999521/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /musical-instruments/tribute/tribute-21-soprano-ukulele-bag/999521/ HTTP/1.1" 200 26477
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/gaming-mouse/roccat-savu-gaming-mouse/668695/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/gaming-mouse/roccat-savu-gaming-mouse/668695/ HTTP/1.1" 200 31151
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/ink--toner/canon/canon-pixma-pgi29r-ink-tank-for-pro-1-red/648212/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/canon/canon-pixma-pgi29r-ink-tank-for-pro-1-red/648212/ HTTP/1.1" 200 26461
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/serena/677838/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/serena/677838/ HTTP/1.1" 200 28108
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-lifestyle/grand-designs-australia-series-5/677666/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-lifestyle/grand-designs-australia-series-5/677666/ HTTP/1.1" 200 27876
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/vacuums-floor-cleaners/miele/miele-complete-c3-comfort-totalcare-powerline-vacuum/681247/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/vacuums-floor-cleaners/miele/miele-complete-c3-comfort-totalcare-powerline-vacuum/681247/ HTTP/1.1" 200 26681
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/cooking/westinghouse/westinghouse-whc934ba-900mm-ceramic-cooktop/683037/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/cooking/westinghouse/westinghouse-whc934ba-900mm-ceramic-cooktop/683037/ HTTP/1.1" 200 28393
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/sci-fi/debug/684727/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/sci-fi/debug/684727/ HTTP/1.1" 200 27777
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/redfern-now-the-complete-series/684733/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/redfern-now-the-complete-series/684733/ HTTP/1.1" 200 27241
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/dance-pop/ministry-of-sound-80s-mix/685649/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/dance-pop/ministry-of-sound-80s-mix/685649/ HTTP/1.1" 200 27429
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/dslr/olympus/olympus-om-d-e-m5-mark-ii-body-only-silver/694870/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/dslr/olympus/olympus-om-d-e-m5-mark-ii-body-only-silver/694870/ HTTP/1.1" 200 29108
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-action/librarians-the-season-1/697717/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-action/librarians-the-season-1/697717/ HTTP/1.1" 200 28826
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/tethered-season-1/697767/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/tethered-season-1/697767/ HTTP/1.1" 200 27980
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/romance/well-never-have-paris/700790/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/romance/well-never-have-paris/700790/ HTTP/1.1" 200 27421
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/play-school-colours-of-the-rainbow/704857/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/play-school-colours-of-the-rainbow/704857/ HTTP/1.1" 200 27059
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/dora-friends/704924/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/dora-friends/704924/ HTTP/1.1" 200 26839
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/classics/far-from-the-madding-crowd/705109/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/classics/far-from-the-madding-crowd/705109/ HTTP/1.1" 200 26364
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/peg-cat-numbers-adventures-fun/700731/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/peg-cat-numbers-adventures-fun/700731/ HTTP/1.1" 200 27033
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/soundbars/sony/sony-htrt5-550w-5-1ch-sound-bar/702226/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/soundbars/sony/sony-htrt5-550w-5-1ch-sound-bar/702226/ HTTP/1.1" 200 26386
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/sci-fi/monsters-dark-continent/712586/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/sci-fi/monsters-dark-continent/712586/ HTTP/1.1" 200 24381
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/camera-accessories/gopole/gopole-venturecase-weather-resistant-soft-case-for-gopro/713233/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/camera-accessories/gopole/gopole-venturecase-weather-resistant-soft-case-for-gopro/713233/ HTTP/1.1" 200 27564
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/laundry/braun/braun-carestyle5-is5022wh-steam-station/717077/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/laundry/braun/braun-carestyle5-is5022wh-steam-station/717077/ HTTP/1.1" 200 26373
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/dance/ministry-of-sound-running-trax-winter-2015/715199/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/dance/ministry-of-sound-running-trax-winter-2015/715199/ HTTP/1.1" 200 28186
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/pop/bad-2015-reissue-edition/715422/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/pop/bad-2015-reissue-edition/715422/ HTTP/1.1" 200 27108
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-crime/ncis-los-angeles-season-6/705107/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-crime/ncis-los-angeles-season-6/705107/ HTTP/1.1" 200 29064
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/australian-cinema/rhymes-for-young-ghouls/725664/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/australian-cinema/rhymes-for-young-ghouls/725664/ HTTP/1.1" 200 27766
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/world-cinema/kung-fu-essentials-collectors-set/725809/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/world-cinema/kung-fu-essentials-collectors-set/725809/ HTTP/1.1" 200 29958
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/skullcandy/skullcandy-jib-in-ear-headphones-white/727391/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/skullcandy/skullcandy-jib-in-ear-headphones-white/727391/ HTTP/1.1" 200 26774
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/pc-game/anno-2205/731466/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/pc-game/anno-2205/731466/ HTTP/1.1" 200 27773
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/nintendo-3ds/fire-emblem-fates-birthright/734011/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/nintendo-3ds/fire-emblem-fates-birthright/734011/ HTTP/1.1" 200 29118
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/brooklyn-nine-nine-season-2/726058/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/brooklyn-nine-nine-season-2/726058/ HTTP/1.1" 200 28894
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/shovel-knight/759819/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/shovel-knight/759819/ HTTP/1.1" 200 26797
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/classics/all-this-and-heaven-too/761710/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/classics/all-this-and-heaven-too/761710/ HTTP/1.1" 200 28791
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/childrens/barbie-in-rock-n-royals/761588/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/childrens/barbie-in-rock-n-royals/761588/ HTTP/1.1" 200 27186
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/apple/apple-ipod-touch-32gb-space-grey/765341/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/apple/apple-ipod-touch-32gb-space-grey/765341/ HTTP/1.1" 200 28070
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/hisense/hisense-150l-art-series-bar-fridge-burnt-orange/767264/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/hisense/hisense-150l-art-series-bar-fridge-burnt-orange/767264/ HTTP/1.1" 200 27896
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/westinghouse/westinghouse-wtb4600wal-460l-top-mount-fridge-white/768705/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/westinghouse/westinghouse-wtb4600wal-460l-top-mount-fridge-white/768705/ HTTP/1.1" 200 26726
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/winners-losers-season-4-part-2/771474/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/winners-losers-season-4-part-2/771474/ HTTP/1.1" 200 26824
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/misfit-garage-season-1/771419/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/misfit-garage-season-1/771419/ HTTP/1.1" 200 26946
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/camera-accessories/yellowstone/yellowstone-large-camera-lens-pouch-black/773741/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/camera-accessories/yellowstone/yellowstone-large-camera-lens-pouch-black/773741/ HTTP/1.1" 200 24109
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/garmin/garmin-dezlcam-lmt-6-truckers-gps-unit-with-dash-cam/785741/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/garmin/garmin-dezlcam-lmt-6-truckers-gps-unit-with-dash-cam/785741/ HTTP/1.1" 200 27615
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/easy-listening-pop/very-best-of-frankie-avalon-the/771389/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/easy-listening-pop/very-best-of-frankie-avalon-the/771389/ HTTP/1.1" 200 24109
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/vacuums-floor-cleaners/vax/vax-vx24-steam-fresh-combi-steam-cleaner/799809/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/vacuums-floor-cleaners/vax/vax-vx24-steam-fresh-combi-steam-cleaner/799809/ HTTP/1.1" 200 28415
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/controller/xbox-one-star-wars-wired-controller-c3po/801857/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/controller/xbox-one-star-wars-wired-controller-c3po/801857/ HTTP/1.1" 200 24954
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-stand-up/carl-barron-all-my-dvds-in-one-box/802076/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-stand-up/carl-barron-all-my-dvds-in-one-box/802076/ HTTP/1.1" 200 28348
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/originals-the-season-2/802115/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fantasy/originals-the-season-2/802115/ HTTP/1.1" 200 27798
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/war/war-pigs/802321/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/war/war-pigs/802321/ HTTP/1.1" 200 27574
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/heating-cooling/panasonic/panasonic-5-0kw-cooling-only-inverter-split-r32-air-conditioner/805022/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/heating-cooling/panasonic/panasonic-5-0kw-cooling-only-inverter-split-r32-air-conditioner/805022/ HTTP/1.1" 200 28141
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/we-are-your-friends/806492/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/we-are-your-friends/806492/ HTTP/1.1" 200 27534
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/documentary/family-affair-a/805724/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/documentary/family-affair-a/805724/ HTTP/1.1" 200 27690
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/jazz/where-or-when/803889/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/jazz/where-or-when/803889/ HTTP/1.1" 200 25187
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/tech21/tech21-iphone-6-6s-evo-mesh-case-smokey-red/832388/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/tech21/tech21-iphone-6-6s-evo-mesh-case-smokey-red/832388/ HTTP/1.1" 200 25655
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/wireless-speakers/logitech/logitech-x50-mobile-wireless-speaker-blue/834322/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/wireless-speakers/logitech/logitech-x50-mobile-wireless-speaker-blue/834322/ HTTP/1.1" 200 25368
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/all-computers--tablets/stm/stm-dux-rugged-case-for-ipad-air-2-blackberry/837163/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/stm/stm-dux-rugged-case-for-ipad-air-2-blackberry/837163/ HTTP/1.1" 200 26073
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/pop-alternative/higher-than-here/838138/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/pop-alternative/higher-than-here/838138/ HTTP/1.1" 200 28352
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/lifeproof/lifeproof-fre-case-for-iphone-6s-black/840474/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/lifeproof/lifeproof-fre-case-for-iphone-6s-black/840474/ HTTP/1.1" 200 26749
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/documentary/brand-a-second-coming/839491/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/documentary/brand-a-second-coming/839491/ HTTP/1.1" 200 27231
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/adventure/hector-and-the-search-for-happiness/839640/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/adventure/hector-and-the-search-for-happiness/839640/ HTTP/1.1" 200 25158
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/hd-televisions/soniq/soniq-e32v15d-au-32-hd-led-tv/844481/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/hd-televisions/soniq/soniq-e32v15d-au-32-hd-led-tv/844481/ HTTP/1.1" 200 29020
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/amiibo/nintendo-amiibo-cyrus-figure/734028/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/amiibo/nintendo-amiibo-cyrus-figure/734028/ HTTP/1.1" 200 25888
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/karaoke/girl-pop-24-karaoke/838315/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/karaoke/girl-pop-24-karaoke/838315/ HTTP/1.1" 200 24514
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/soundtrack/star-wars-the-force-awakens-ost/838444/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/soundtrack/star-wars-the-force-awakens-ost/838444/ HTTP/1.1" 200 25676
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/documentary/graceful-girls/856175/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/documentary/graceful-girls/856175/ HTTP/1.1" 200 27313
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/accessories/gecko/gecko-rugged-hybrid-folio-for-ipad-pro/882274/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/gecko/gecko-rugged-hybrid-folio-for-ipad-pro/882274/ HTTP/1.1" 200 25043
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/dance/ministry-of-sound-drive-1cd-edition/862642/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/dance/ministry-of-sound-drive-1cd-edition/862642/ HTTP/1.1" 200 25745
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/garmin/garmin-fenix-3-sports-watch-with-leather-band-silver/886051/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/garmin/garmin-fenix-3-sports-watch-with-leather-band-silver/886051/ HTTP/1.1" 200 29131
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/documentary/fairless/888932/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/documentary/fairless/888932/ HTTP/1.1" 200 27506
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/documentary/wrecking-crew-the/889135/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/documentary/wrecking-crew-the/889135/ HTTP/1.1" 200 27502
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-stand-up/martin-lawrence-live/889386/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-stand-up/martin-lawrence-live/889386/ HTTP/1.1" 200 26757
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/belkin/belkin-mixitup-metallic-6600mah-power-pack-grey/904159/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/belkin/belkin-mixitup-metallic-6600mah-power-pack-grey/904159/ HTTP/1.1" 200 25695
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/guess-how-much-i-love-you-lucky-egg/889368/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/guess-how-much-i-love-you-lucky-egg/889368/ HTTP/1.1" 200 26605
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-stand-up/david-strassman-comedy-double-act/930195/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-stand-up/david-strassman-comedy-double-act/930195/ HTTP/1.1" 200 28468
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/adventure/jem-the-holograms/930202/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/adventure/jem-the-holograms/930202/ HTTP/1.1" 200 28172
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/miffy-the-camping-adventure/930262/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/miffy-the-camping-adventure/930262/ HTTP/1.1" 200 26605
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/rock-pop/pinups-vinyl-2015-remastered-version/929296/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/rock-pop/pinups-vinyl-2015-remastered-version/929296/ HTTP/1.1" 200 27063
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/other/sodastream/sodastream-drink-mix-zeros-440ml-lemonade/933413/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/other/sodastream/sodastream-drink-mix-zeros-440ml-lemonade/933413/ HTTP/1.1" 200 26835
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/sennheiser/sennheiser-cx3-00-in-ear-headphones-white/936504/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/sennheiser/sennheiser-cx3-00-in-ear-headphones-white/936504/ HTTP/1.1" 200 29160
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/classics/lady-from-shanghai-the/936179/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/classics/lady-from-shanghai-the/936179/ HTTP/1.1" 200 26874
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-special-interest/frank-sinatra-show-collection-the/936242/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-special-interest/frank-sinatra-show-collection-the/936242/ HTTP/1.1" 200 27280
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/childrens/land-before-time-xiv-the-journey-of-the-brave/936341/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/childrens/land-before-time-xiv-the-journey-of-the-brave/936341/ HTTP/1.1" 200 27718
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/accessories/targus/targus-standard-stylus-with-embedded-clip-black/936640/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/targus/targus-standard-stylus-with-embedded-clip-black/936640/ HTTP/1.1" 200 25212
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/UHF/uniden/uniden-uh850s-2tp-5w-uhf-waterproof-cb-handheld-tradies-pack/937952/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/UHF/uniden/uniden-uh850s-2tp-5w-uhf-waterproof-cb-handheld-tradies-pack/937952/ HTTP/1.1" 200 27572
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/vacuums-floor-cleaners/electrolux/electrolux-ergorapido-zb3112akb-2-in-1-stick-vacuum/939483/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/vacuums-floor-cleaners/electrolux/electrolux-ergorapido-zb3112akb-2-in-1-stick-vacuum/939483/ HTTP/1.1" 200 27382
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/accessories/t2/terminal-2-travel-adaptor-australia-inbound/940476/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/t2/terminal-2-travel-adaptor-australia-inbound/940476/ HTTP/1.1" 200 24440
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/jazz/trajectoire/940858/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/jazz/trajectoire/940858/ HTTP/1.1" 200 24346
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-wrestlemania-22/942596/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-wrestlemania-22/942596/ HTTP/1.1" 200 26395
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-survivor-series-2015/942827/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-survivor-series-2015/942827/ HTTP/1.1" 200 27247
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-childrens/rabbids-invasion-rabbid-2-0/942804/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-childrens/rabbids-invasion-rabbid-2-0/942804/ HTTP/1.1" 200 26766
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-animation/gogs-the-complete-series/942670/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-animation/gogs-the-complete-series/942670/ HTTP/1.1" 200 27249
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/pc-game/doom/936087/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/pc-game/doom/936087/ HTTP/1.1" 200 30872
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/soundtrack/a-bigger-splash-ost/941960/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/soundtrack/a-bigger-splash-ost/941960/ HTTP/1.1" 200 26269
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/accessories/microsoft/microsoft-lifecam-cinema-webcam/944806/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/microsoft/microsoft-lifecam-cinema-webcam/944806/ HTTP/1.1" 200 26380
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/soundtrack/divorce-the-otv/871092/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/soundtrack/divorce-the-otv/871092/ HTTP/1.1" 200 24855
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/accessories/apple/apple-smart-cover-for-9-7-inch-ipad-pro-charcoal-grey/948044/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/apple/apple-smart-cover-for-9-7-inch-ipad-pro-charcoal-grey/948044/ HTTP/1.1" 200 24539
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/all-whitegoods--appliances/philips/philips-series-5000-7-in-1-multigrooming-kit/949597/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/all-whitegoods--appliances/philips/philips-series-5000-7-in-1-multigrooming-kit/949597/ HTTP/1.1" 200 28038
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/afl-classics-brisbane-lions/950521/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/afl-classics-brisbane-lions/950521/ HTTP/1.1" 200 26631
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/comedy/grimsby/950471/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/comedy/grimsby/950471/ HTTP/1.1" 200 27974
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-childrens/lego-nexo-knights-season-1-volume-2/950476/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-childrens/lego-nexo-knights-season-1-volume-2/950476/ HTTP/1.1" 200 26539
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-eric-bischoff-sports-entertainments-most-controversial-figure/950530/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-eric-bischoff-sports-entertainments-most-controversial-figure/950530/ HTTP/1.1" 200 26886
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/horror/witch-the/951354/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/horror/witch-the/951354/ HTTP/1.1" 200 30841
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/jazz/rabbit-hole/952140/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/jazz/rabbit-hole/952140/ HTTP/1.1" 200 24735
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/vacuums-floor-cleaners/vax/vax-vx35-18v-gator-pet-handheld-vacuum/952994/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/vacuums-floor-cleaners/vax/vax-vx35-18v-gator-pet-handheld-vacuum/952994/ HTTP/1.1" 200 27698
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/compact-cameras/nikon/nikon-coolpix-b700-20-3mp-ultra-zoom-digital-camera/953801/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/compact-cameras/nikon/nikon-coolpix-b700-20-3mp-ultra-zoom-digital-camera/953801/ HTTP/1.1" 200 31453
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/childrens/babies-love-michael-buble/954757/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/childrens/babies-love-michael-buble/954757/ HTTP/1.1" 200 24497
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/jazz/ascension-vinyl/971967/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/jazz/ascension-vinyl/971967/ HTTP/1.1" 200 24879
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-the-monday-night-war-collection/955671/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-the-monday-night-war-collection/955671/ HTTP/1.1" 200 27496
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-action/starsky-hutch-season-2/955752/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-action/starsky-hutch-season-2/955752/ HTTP/1.1" 200 27775
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-crime/line-of-duty-series-3/955628/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-crime/line-of-duty-series-3/955628/ HTTP/1.1" 200 28428
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/star-trek-the-original-series-the-complete-series/955653/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/star-trek-the-original-series-the-complete-series/955653/ HTTP/1.1" 200 27670
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/universal/andre-rieu-welcome-to-my-word-part-2/955130/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/universal/andre-rieu-welcome-to-my-word-part-2/955130/ HTTP/1.1" 200 27156
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/punk/heat-island/955277/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/punk/heat-island/955277/ HTTP/1.1" 200 24942
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/interscope/imagine-dragons-smoke-mirrors-live/958415/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/interscope/imagine-dragons-smoke-mirrors-live/958415/ HTTP/1.1" 200 26657
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/microphones/rode/rode-videomic-me-microphone-for-smartphones/990499/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/microphones/rode/rode-videomic-me-microphone-for-smartphones/990499/ HTTP/1.1" 200 28053
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/ifit/ifit-vue-activity-tracker-sangria-papaya/966610/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/ifit/ifit-vue-activity-tracker-sangria-papaya/966610/ HTTP/1.1" 200 25453
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/laverne-shirley-season-6/967639/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/laverne-shirley-season-6/967639/ HTTP/1.1" 200 26978
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/world-cinema/rams/967784/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/world-cinema/rams/967784/ HTTP/1.1" 200 27216
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/affair-the-season-2/967764/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/affair-the-season-2/967764/ HTTP/1.1" 200 28051
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/comedy/kill-your-friends/967505/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/comedy/kill-your-friends/967505/ HTTP/1.1" 200 27847
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/romance/bridget-joness-diary-bridget-jones-the-edge-of-reason/967676/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/romance/bridget-joness-diary-bridget-jones-the-edge-of-reason/967676/ HTTP/1.1" 200 27819
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/xbox-one/wwe-2k17/957666/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/xbox-one/wwe-2k17/957666/ HTTP/1.1" 200 27455
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/sony/steve-hackett-total-experience-live-in-livepool-blu-ray/969371/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/sony/steve-hackett-total-experience-live-in-livepool-blu-ray/969371/ HTTP/1.1" 200 25163
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/gaming-headset/astro-gaming-a50-wireless-headset-for-xbox-one-gen-3/971007/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/gaming-headset/astro-gaming-a50-wireless-headset-for-xbox-one-gen-3/971007/ HTTP/1.1" 200 28537
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/xbox-one/south-park-the-fractured-but-whole-gold-edition/971015/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/xbox-one/south-park-the-fractured-but-whole-gold-edition/971015/ HTTP/1.1" 200 27357
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/xbox-one/state-of-decay-2/971057/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/xbox-one/state-of-decay-2/971057/ HTTP/1.1" 200 26321
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/haier/haier-hbm340wh1-342l-bottom-mount-fridge/971218/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/haier/haier-hbm340wh1-342l-bottom-mount-fridge/971218/ HTTP/1.1" 200 25281
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/rock/monster-2016-reissue/971874/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/rock/monster-2016-reissue/971874/ HTTP/1.1" 200 24477
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/dishwashers/haier/haier-hdw13g1w-14-place-setting-free-standing-dishwasher/973481/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/dishwashers/haier/haier-hdw13g1w-14-place-setting-free-standing-dishwasher/973481/ HTTP/1.1" 200 25978
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-battleground-2016/973451/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-battleground-2016/973451/ HTTP/1.1" 200 27256
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/mob-wives-season-6/973420/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/mob-wives-season-6/973420/ HTTP/1.1" 200 28227
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/comedy/munster-go-home/973205/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/comedy/munster-go-home/973205/ HTTP/1.1" 200 28268
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/lenovo/lenovo-ideapad-510-15-6-laptop-i7/956448/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/lenovo/lenovo-ideapad-510-15-6-laptop-i7/956448/ HTTP/1.1" 200 29740
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/samsung/samsung-srf800gdls-836l-french-door-fridge/974392/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/samsung/samsung-srf800gdls-836l-french-door-fridge/974392/ HTTP/1.1" 200 27118
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/rap-hip-hop/blank-face-lp-the/972207/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/rap-hip-hop/blank-face-lp-the/972207/ HTTP/1.1" 200 26098
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/wireless-speakers/flea-market/flea-market-retro-bluetooth-speaker-black/975537/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/wireless-speakers/flea-market/flea-market-retro-bluetooth-speaker-black/975537/ HTTP/1.1" 200 24338
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/audiofly/audiofly-af33c-in-ear-headphones-coral/975898/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/audiofly/audiofly-af33c-in-ear-headphones-coral/975898/ HTTP/1.1" 200 26865
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/alternative-rock-pop-punk/horrible-kids/972267/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/alternative-rock-pop-punk/horrible-kids/972267/ HTTP/1.1" 200 25411
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/ambient-electronic-alternative/wide-asleep/977472/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/ambient-electronic-alternative/wide-asleep/977472/ HTTP/1.1" 200 24502
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/zero-x/zero-x-blitz-racing-drone/979873/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/zero-x/zero-x-blitz-racing-drone/979873/ HTTP/1.1" 200 26010
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/hp/hp-pavilion-24-b015a-24-touchscreen-all-in-one-desktop-pc/980651/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/hp/hp-pavilion-24-b015a-24-touchscreen-all-in-one-desktop-pc/980651/ HTTP/1.1" 200 28889
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/hp/hp-pavilion-27-a071a-27-touchscreen-all-in-one-desktop-pc/981661/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/hp/hp-pavilion-27-a071a-27-touchscreen-all-in-one-desktop-pc/981661/ HTTP/1.1" 200 29428
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/nintendo-3ds/yo-kai-watch-2-bony-spirits/984218/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/nintendo-3ds/yo-kai-watch-2-bony-spirits/984218/ HTTP/1.1" 200 27118
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/50-years-of-the-mini-victory-at-bathurst/983874/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/50-years-of-the-mini-victory-at-bathurst/983874/ HTTP/1.1" 200 27341
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/action/independence-day-1-2-collection/983979/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/action/independence-day-1-2-collection/983979/ HTTP/1.1" 200 27518
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/wiggles-the-dial-e-for-emma/983949/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-pre-school/wiggles-the-dial-e-for-emma/983949/ HTTP/1.1" 200 25818
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/horror/a-night-of-horror-volume-1/984012/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/horror/a-night-of-horror-volume-1/984012/ HTTP/1.1" 200 27923
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/community-the-complete-series/983950/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-comedy/community-the-complete-series/983950/ HTTP/1.1" 200 28688
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/adventure/snow-white-and-the-huntsman/984184/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/adventure/snow-white-and-the-huntsman/984184/ HTTP/1.1" 200 27351
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/samsung/samsung-gear-vr-black-series/984777/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/samsung/samsung-gear-vr-black-series/984777/ HTTP/1.1" 200 28564
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/batman-the-telltale-series/974862/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/batman-the-telltale-series/974862/ HTTP/1.1" 200 28149
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/element/element-soft-tec-case-for-iphone-6-6s-black/987067/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/element/element-soft-tec-case-for-iphone-6-6s-black/987067/ HTTP/1.1" 200 24854
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/cygnett/cygnett-chargeup-digital-4000-portable-power-bank-green-grey/990236/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/cygnett/cygnett-chargeup-digital-4000-portable-power-bank-green-grey/990236/ HTTP/1.1" 200 27415
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/cygnett/cygnett-source-1m-lightning-to-usb-flexible-cable-white/990246/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/cygnett/cygnett-source-1m-lightning-to-usb-flexible-cable-white/990246/ HTTP/1.1" 200 25507
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/lexar/lexar-professional-1066x-compactflash-card-64gb/991588/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/lexar/lexar-professional-1066x-compactflash-card-64gb/991588/ HTTP/1.1" 200 26612
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/urban-rap/gatho-vol-1-the/988319/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/urban-rap/gatho-vol-1-the/988319/ HTTP/1.1" 200 25371
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/warner-classics/giordano-andrea-chenier-the-royal-opera/988506/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/warner-classics/giordano-andrea-chenier-the-royal-opera/988506/ HTTP/1.1" 200 28008
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/all-whitegoods--appliances/sonicare/philips-sonicare-diamondclean-toothbrush-heads-2-pack-white/994889/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/all-whitegoods--appliances/sonicare/philips-sonicare-diamondclean-toothbrush-heads-2-pack-white/994889/ HTTP/1.1" 200 28316
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/all-computers--tablets/lexar/lexar-jumpdrive-s45-usb-3-0-64gb-flash-drive-teal/991613/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/lexar/lexar-jumpdrive-s45-usb-3-0-64gb-flash-drive-teal/991613/ HTTP/1.1" 200 27243
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/dance-moms-dancin-divas-collectors-set/309710/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/dance-moms-dancin-divas-collectors-set/309710/ HTTP/1.1" 200 27425
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-anime/disappearance-of-nagato-yuki-chan-the/309799/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-anime/disappearance-of-nagato-yuki-chan-the/309799/ HTTP/1.1" 200 27718
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/afl-classics-collingwood-volume-2/309798/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/afl-classics-collingwood-volume-2/309798/ HTTP/1.1" 200 27043
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-summerslam-2016/310061/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-summerslam-2016/310061/ HTTP/1.1" 200 28137
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/adventure/harry-potter-the-complete-collection-special-edition/310193/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/adventure/harry-potter-the-complete-collection-special-edition/310193/ HTTP/1.1" 200 29239
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/penny-dreadful-season-1-3/310282/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-horror/penny-dreadful-season-1-3/310282/ HTTP/1.1" 200 28708
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-crime/murdoch-mysteries-series-1-9/310463/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-crime/murdoch-mysteries-series-1-9/310463/ HTTP/1.1" 200 28456
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-clash-of-champions-2016/309960/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-clash-of-champions-2016/309960/ HTTP/1.1" 200 27150
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/unreal-season-2/310494/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/unreal-season-2/310494/ HTTP/1.1" 200 27471
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/aragami/987728/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/aragami/987728/ HTTP/1.1" 200 27662
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/incipio/incipio-dualpro-case-for-iphone-7-champagne/313303/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/incipio/incipio-dualpro-case-for-iphone-7-champagne/313303/ HTTP/1.1" 200 25756
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/tech21/tech21-impact-case-for-iphone-7-clear/313566/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/tech21/tech21-impact-case-for-iphone-7-clear/313566/ HTTP/1.1" 200 25348
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/urban-rap/legacy-of-rnb-party-the/994358/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/urban-rap/legacy-of-rnb-party-the/994358/ HTTP/1.1" 200 24771
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/eve-valkyrie-vr/313766/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/eve-valkyrie-vr/313766/ HTTP/1.1" 200 28536
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/pc-game/wrc-6/313769/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/pc-game/wrc-6/313769/ HTTP/1.1" 200 26612
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/beats-by-dr-dre/beats-studio-wireless-on-ear-headphones-gloss-black/314670/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/beats-by-dr-dre/beats-studio-wireless-on-ear-headphones-gloss-black/314670/ HTTP/1.1" 200 26193
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/monitors/benq/benq-sw2700pt-27-adobe-rgb-color-management-monitor-for-photographers/314269/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/monitors/benq/benq-sw2700pt-27-adobe-rgb-color-management-monitor-for-photographers/314269/ HTTP/1.1" 200 28471
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/family/mr-fuzzypants/314752/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/family/mr-fuzzypants/314752/ HTTP/1.1" 200 29207
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/tom-clancys-rainbow-six-siege-gold-edition/316177/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/tom-clancys-rainbow-six-siege-gold-edition/316177/ HTTP/1.1" 200 29099
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /ipods-docks-fitness/sony/sony-nwa35-high-resolution-audio-16gb-walkman-blue/317237/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /ipods-docks-fitness/sony/sony-nwa35-high-resolution-audio-16gb-walkman-blue/317237/ HTTP/1.1" 200 26212
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/sol-republic/sol-republic-relay-sport-in-ear-wireless-headphones-lemon/317886/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/sol-republic/sol-republic-relay-sport-in-ear-wireless-headphones-lemon/317886/ HTTP/1.1" 200 25478
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/plantronics/plantronics-backbeat-fit-wireless-sport-headphones-fucshia/318329/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/plantronics/plantronics-backbeat-fit-wireless-sport-headphones-fucshia/318329/ HTTP/1.1" 200 26984
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/acer/acer-aspire-f5-573g-7908-15-notebook/318639/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/acer/acer-aspire-f5-573g-7908-15-notebook/318639/ HTTP/1.1" 200 27240
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/horror/red-billabong/314686/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/horror/red-billabong/314686/ HTTP/1.1" 200 28016
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/eagle-rock-universal/rolling-stones-the-havana-moon/315743/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/eagle-rock-universal/rolling-stones-the-havana-moon/315743/ HTTP/1.1" 200 27617
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/dance-uran-rap-hip-hop/ministry-of-sound-chilled-hip-hop/315843/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/dance-uran-rap-hip-hop/ministry-of-sound-chilled-hip-hop/315843/ HTTP/1.1" 200 28393
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/punk-alternative-rock/black-vinyl/315969/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/punk-alternative-rock/black-vinyl/315969/ HTTP/1.1" 200 27194
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /gps-car-audio/vehicle-cameras/kapture/kapture-kpt-910-dlx-series-in-car-dash-camera/321799/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /gps-car-audio/vehicle-cameras/kapture/kapture-kpt-910-dlx-series-in-car-dash-camera/321799/ HTTP/1.1" 200 26560
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/surf-rock/a-life-in-the-sun/320077/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/surf-rock/a-life-in-the-sun/320077/ HTTP/1.1" 200 29240
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/rap-hip-hop/two-degrees/320265/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/rap-hip-hop/two-degrees/320265/ HTTP/1.1" 200 28645
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/nashville-complete-season-1-4/321513/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/nashville-complete-season-1-4/321513/ HTTP/1.1" 200 27644
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/classical/murray-perahia-the-bach-album/320369/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/classical/murray-perahia-the-bach-album/320369/ HTTP/1.1" 200 25242
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /cameras/camera-accessories/360fly/360fly-4k-tripod-grip/323837/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /cameras/camera-accessories/360fly/360fly-4k-tripod-grip/323837/ HTTP/1.1" 200 24405
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/opera-classical/nutcracker-the-2016-versionnutcracker-the-with-narration-by-geoffrey-rush-2016-v/322961/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/opera-classical/nutcracker-the-2016-versionnutcracker-the-with-narration-by-geoffrey-rush-2016-v/322961/ HTTP/1.1" 200 24711
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/action/deepwater-horizon/321430/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/action/deepwater-horizon/321430/ HTTP/1.1" 200 27850
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/duel-the/325210/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/duel-the/325210/ HTTP/1.1" 200 27101
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/zumba-slimdown-party/325376/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-fitness/zumba-slimdown-party/325376/ HTTP/1.1" 200 27997
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/family/aladdin/325294/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/family/aladdin/325294/ HTTP/1.1" 200 28194
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/prisoner-cell-block-h-season-2/325328/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/prisoner-cell-block-h-season-2/325328/ HTTP/1.1" 200 27426
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/classical/martha-argerich-the-warner-classics-recordings-box-set/323136/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/classical/martha-argerich-the-warner-classics-recordings-box-set/323136/ HTTP/1.1" 200 24551
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/uncharted-3-drakes-deception-remastered/324745/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/uncharted-3-drakes-deception-remastered/324745/ HTTP/1.1" 200 27202
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/apple/apple-macbook-pro-13-with-touch-bar-512gb-silver/314357/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/apple/apple-macbook-pro-13-with-touch-bar-512gb-silver/314357/ HTTP/1.1" 200 27687
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /musical-instruments/korg/korg-pa300-arranger-keyboard/998300/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /musical-instruments/korg/korg-pa300-arranger-keyboard/998300/ HTTP/1.1" 200 28710
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /headphones-dj/headphones/skullcandy/skullcandy-inkd-2-0-in-ear-headphones-w-mic-brown-camo-black/327517/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /headphones-dj/headphones/skullcandy/skullcandy-inkd-2-0-in-ear-headphones-w-mic-brown-camo-black/327517/ HTTP/1.1" 200 25369
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/country/leave-on-a-light-the-songs-of-karl-broadie/327153/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/country/leave-on-a-light-the-songs-of-karl-broadie/327153/ HTTP/1.1" 200 25246
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/electronic/love-songs-part-two-vinyl/327188/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/electronic/love-songs-part-two-vinyl/327188/ HTTP/1.1" 200 25065
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/beko/beko-rcna340k30zx-320l-bottom-mount-fridge-s-steel/328480/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/beko/beko-rcna340k30zx-320l-bottom-mount-fridge-s-steel/328480/ HTTP/1.1" 200 26275
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/punk-alternative-rock/why-love-now-vinyl/328688/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/punk-alternative-rock/why-love-now-vinyl/328688/ HTTP/1.1" 200 27087
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/urban-rap/blunted-on-reality-180gm-vinyl-reissue/328786/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/urban-rap/blunted-on-reality-180gm-vinyl-reissue/328786/ HTTP/1.1" 200 24647
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-pavilion-x360-13-u166tu-13-3-2-in-1-laptop-i7/330169/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-pavilion-x360-13-u166tu-13-3-2-in-1-laptop-i7/330169/ HTTP/1.1" 200 28066
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/metal/discoveries-limited-edition-mr-blue-sky-coloured-vinyl/328971/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/metal/discoveries-limited-edition-mr-blue-sky-coloured-vinyl/328971/ HTTP/1.1" 200 26487
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/fossil/fossil-q-tailor-hybrid-smartwatch-rose-navy/331422/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/fossil/fossil-q-tailor-hybrid-smartwatch-rose-navy/331422/ HTTP/1.1" 200 26929
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-mg7765-printer/331758/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-mg7765-printer/331758/ HTTP/1.1" 200 26000
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/sony-classical/new-years-concert-2017-blu-ray/329058/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/sony-classical/new-years-concert-2017-blu-ray/329058/ HTTP/1.1" 200 26866
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/all-computers--tablets/wd/wd-my-passport-4tb-portable-hard-drive-usb-3-0-white/331765/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/wd/wd-my-passport-4tb-portable-hard-drive-usb-3-0-white/331765/ HTTP/1.1" 200 25952
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/thriller/made-in-france/333215/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/thriller/made-in-france/333215/ HTTP/1.1" 200 27253
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/deadliest-catch-dungeon-cover-season-1/332982/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-reality/deadliest-catch-dungeon-cover-season-1/332982/ HTTP/1.1" 200 27740
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-best-of-raw-smackdown-2016/333078/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sports/wwe-best-of-raw-smackdown-2016/333078/ HTTP/1.1" 200 26829
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/wannabe-the/333399/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/wannabe-the/333399/ HTTP/1.1" 200 26920
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-anime/naruto-shippuden-collection-29/333408/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-anime/naruto-shippuden-collection-29/333408/ HTTP/1.1" 200 27344
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/drama/murder-she-baked-collection/333263/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/drama/murder-she-baked-collection/333263/ HTTP/1.1" 200 27170
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-special-interest/war-that-changed-us-the/333357/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-special-interest/war-that-changed-us-the/333357/ HTTP/1.1" 200 27572
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/class-series-1/333504/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-sci-fi/class-series-1/333504/ HTTP/1.1" 200 28686
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/rap-hip-hop/champion-sound-the-remix-vinyl/332222/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/rap-hip-hop/champion-sound-the-remix-vinyl/332222/ HTTP/1.1" 200 24429
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/cables-charging/prif-helix-1-illuminated-charging-station/332003/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/cables-charging/prif-helix-1-illuminated-charging-station/332003/ HTTP/1.1" 200 27139
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/funko/guardians-of-the-galaxy-vol-2-taserface-pop-vinyl-figure/331865/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/funko/guardians-of-the-galaxy-vol-2-taserface-pop-vinyl-figure/331865/ HTTP/1.1" 200 25063
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/funko/beauty-the-beast-2017-belle-celebration-pop-vinyl/335369/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/funko/beauty-the-beast-2017-belle-celebration-pop-vinyl/335369/ HTTP/1.1" 200 24546
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/metal-hard-rock/visions-special-edition-2017-reissue/332598/ HTTP/1.1" 404 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/metal-hard-rock/visions-special-edition-2017-reissue/332598/ HTTP/1.1" 404 5435
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /phones/all-phones/oppo/oppo-r9s-case-blue/335896/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /phones/all-phones/oppo/oppo-r9s-case-blue/335896/ HTTP/1.1" 200 24614
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/action/xxx-the-return-of-xander-cage/333569/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/action/xxx-the-return-of-xander-cage/333569/ HTTP/1.1" 200 24661
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/decca/puccini-turandot-blu-ray/336421/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/decca/puccini-turandot-blu-ray/336421/ HTTP/1.1" 200 24554
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/gaming-headset/steelseries-arctis-7-wireless-gaming-headset-black/336913/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/gaming-headset/steelseries-arctis-7-wireless-gaming-headset-black/336913/ HTTP/1.1" 200 29589
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/alternative-rock/mirrorland-vinyl/336468/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/alternative-rock/mirrorland-vinyl/336468/ HTTP/1.1" 200 25281
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/electronic/circle-triangle/336603/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/electronic/circle-triangle/336603/ HTTP/1.1" 200 24331
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/country/airborne/336515/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/country/airborne/336515/ HTTP/1.1" 200 24502
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/when-we-go-to-war-ultimate-collection-anzac-edition/349832/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/tv-drama/when-we-go-to-war-ultimate-collection-anzac-edition/349832/ HTTP/1.1" 200 25634
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/westerm/no-name-on-the-bullet/349781/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/westerm/no-name-on-the-bullet/349781/ HTTP/1.1" 200 24979
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/country/hall-of-fame-number-one-country-hits/336699/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/country/hall-of-fame-number-one-country-hits/336699/ HTTP/1.1" 200 25181
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/documentary/author-the-jt-leroy-story/337385/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/documentary/author-the-jt-leroy-story/337385/ HTTP/1.1" 200 25388
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/playstation-4/this-is-the-police/349913/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/playstation-4/this-is-the-police/349913/ HTTP/1.1" 200 26367
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/rap-hip-hop/invincible-armour/352323/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/rap-hip-hop/invincible-armour/352323/ HTTP/1.1" 200 25096
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/metalcore/deep-blue-vinyl-reissue/352393/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/metalcore/deep-blue-vinyl-reissue/352393/ HTTP/1.1" 200 27126
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /movies-tv-shows/movies-tv-shows-on-sale/action/great-wall-the/350542/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /movies-tv-shows/movies-tv-shows-on-sale/action/great-wall-the/350542/ HTTP/1.1" 200 24613
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/Whats-Hot/punk-hip-hop-alternative/english-tapas-vinyl/352919/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/Whats-Hot/punk-hip-hop-alternative/english-tapas-vinyl/352919/ HTTP/1.1" 200 25250
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/funko/overwatch-lucio-pop-vinyl-figure/349596/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/funko/overwatch-lucio-pop-vinyl-figure/349596/ HTTP/1.1" 200 25016
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /music/browse/funk-disco-reggae-soul/hustle-reggae-disco-kingston-london-new-york/352948/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /music/browse/funk-disco-reggae-soul/hustle-reggae-disco-kingston-london-new-york/352948/ HTTP/1.1" 200 25563
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /games-consoles/platforms/funko/scooby-doo-the-creeper-eccc-2017-pop-vinyl-figure/398857/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /games-consoles/platforms/funko/scooby-doo-the-creeper-eccc-2017-pop-vinyl-figure/398857/ HTTP/1.1" 200 25363

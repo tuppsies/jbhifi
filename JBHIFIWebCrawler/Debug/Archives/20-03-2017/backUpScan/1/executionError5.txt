@@ -1,0 +1,28 @@
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/other/breville/breville-ezy-carve-electric-knife/34004/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/other/breville/breville-ezy-carve-electric-knife/34004/ HTTP/1.1" 200 27269
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/kitchen-appliances/delonghi/delonghi-icona-kettle-white/67551/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/kitchen-appliances/delonghi/delonghi-icona-kettle-white/67551/ HTTP/1.1" 200 26441
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/vacuums-floor-cleaners/dyson/dyson-flexi-crevice-tool/30045/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/vacuums-floor-cleaners/dyson/dyson-flexi-crevice-tool/30045/ HTTP/1.1" 200 27435
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/cooking/hillmark/hillmark-h69-ceraseal-ceramic-glass-cooktop-protector/37521/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/cooking/hillmark/hillmark-h69-ceraseal-ceramic-glass-cooktop-protector/37521/ HTTP/1.1" 200 27519
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/cooking/westinghouse/westinghouse-wrh908is-900mm-slide-out-2-fan-rangehood-s-steel/45926/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/cooking/westinghouse/westinghouse-wrh908is-900mm-slide-out-2-fan-rangehood-s-steel/45926/ HTTP/1.1" 200 27521
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/vacuums-floor-cleaners/menalux/menalux-1840-vacuum-bags/39048/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/vacuums-floor-cleaners/menalux/menalux-1840-vacuum-bags/39048/ HTTP/1.1" 200 25852
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/cooking/beko/beko-hic64502t-600mm-4-zone-ceramic-touch-cooktop/77665/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/cooking/beko/beko-hic64502t-600mm-4-zone-ceramic-touch-cooktop/77665/ HTTP/1.1" 200 27402

@@ -1,0 +1,28 @@
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/kitchen-appliances/breville/breville-the-handy-hotplate-2/65024/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/kitchen-appliances/breville/breville-the-handy-hotplate-2/65024/ HTTP/1.1" 200 27311
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/all-whitegoods--appliances/oral-b/oral-b-vitality-power-brush-precision-clean/28598/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/all-whitegoods--appliances/oral-b/oral-b-vitality-power-brush-precision-clean/28598/ HTTP/1.1" 200 24578
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/fisher-paykel/fisher-paykel-e388lww-389l-upright-freezer/35999/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/fisher-paykel/fisher-paykel-e388lww-389l-upright-freezer/35999/ HTTP/1.1" 200 25097
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/cooking/westinghouse/westinghouse-wrh908iw-900mm-slide-out-2-fan-rangehood-white/45927/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/cooking/westinghouse/westinghouse-wrh908iw-900mm-slide-out-2-fan-rangehood-white/45927/ HTTP/1.1" 200 27610
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/kitchen-appliances/kambrook/kambrook-banquet-fry-pan/38300/ HTTP/1.1" 404 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/kitchen-appliances/kambrook/kambrook-banquet-fry-pan/38300/ HTTP/1.1" 404 5435
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/laundry/sunbeam/sunbeam-sr6250-verve-62-platinum-iron/70433/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/laundry/sunbeam/sunbeam-sr6250-verve-62-platinum-iron/70433/ HTTP/1.1" 200 27474
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /whitegoods-appliances/fridges-freezers/fisher-paykel/fisher-paykel-e440trt3-447l-frost-free-top-mount-fridge/89079/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /whitegoods-appliances/fridges-freezers/fisher-paykel/fisher-paykel-e440trt3-447l-frost-free-top-mount-fridge/89079/ HTTP/1.1" 200 26441

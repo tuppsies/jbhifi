@@ -1,0 +1,15 @@
+ERROR:root:ERROR
+Traceback (most recent call last):
+  File "/home/tupperware/JBHIFIWebCrawler/Programs/JBHIFIPriceAnalyser.py", line 211, in <module>
+    database_analyser()
+  File "/home/tupperware/JBHIFIWebCrawler/Programs/JBHIFIPriceAnalyser.py", line 88, in database_analyser
+    c.execute("SELECT ID FROM products WHERE url = %s", (url,))
+  File "/usr/local/lib/python3.4/dist-packages/mysql/connector/cursor.py", line 515, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/usr/local/lib/python3.4/dist-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/usr/local/lib/python3.4/dist-packages/mysql/connector/connection.py", line 267, in _send_cmd
+    return self._socket.recv()
+  File "/usr/local/lib/python3.4/dist-packages/mysql/connector/network.py", line 226, in recv_plain
+    chunk = self.sock.recv(4 - packet_len)
+KeyboardInterrupt

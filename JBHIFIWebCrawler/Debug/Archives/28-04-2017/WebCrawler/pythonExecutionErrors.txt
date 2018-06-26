@@ -1,0 +1,552 @@
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /General/Sitemap/ HTTP/1.1" 200 None
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/tablets/ HTTP/1.1" 200 31574
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/tablets/?p=2&s=displayPrice&sd=1 HTTP/1.1" 200 30016
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/ HTTP/1.1" 200 34293
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 26041
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 25680
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 29215
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 34323
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-11-y009tu-11-6-laptop-with-office-365-1yr-subscription/330176/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-11-y009tu-11-6-laptop-with-office-365-1yr-subscription/330176/ HTTP/1.1" 200 28996
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/?p=3&s=releaseDate&sd=2 HTTP/1.1" 200 31259
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/2-in-1s/ HTTP/1.1" 200 31309
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 25680
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 26041
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/ HTTP/1.1" 200 32338
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i5-1tb/424031/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i5-1tb/424031/ HTTP/1.1" 200 30112
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-1tb/424032/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-1tb/424032/ HTTP/1.1" 200 30102
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-2tb/424033/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-2tb/424033/ HTTP/1.1" 200 30100
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/surface/ HTTP/1.1" 200 29754
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/ HTTP/1.1" 200 35741
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 35567
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/?p=3&s=releaseDate&sd=2 HTTP/1.1" 200 34924
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/?p=4&s=releaseDate&sd=2 HTTP/1.1" 200 35254
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/accessories/?p=5&s=releaseDate&sd=2 HTTP/1.1" 200 35172
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple-mac/ HTTP/1.1" 200 30511
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple-mac/?p=2&s=displayPrice&sd=2 HTTP/1.1" 200 31230
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ipad/ HTTP/1.1" 200 29802
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ipad/?p=2&s=displayPrice&sd=2 HTTP/1.1" 200 32504
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ipad/?p=3&s=displayPrice&sd=2 HTTP/1.1" 200 31260
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple-watch/ HTTP/1.1" 200 25843
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple-tv/ HTTP/1.1" 200 24976
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple-accessories/ HTTP/1.1" 200 30740
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple-accessories/?p=2&s=displayName&sd=1 HTTP/1.1" 200 27906
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/gaming-pcs/ HTTP/1.1" 200 31815
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 29215
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 26208
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/galaxy/ HTTP/1.1" 200 26079
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/cases-covers--bags/ HTTP/1.1" 200 35296
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/cases-covers--bags/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 36000
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/cases-covers--bags/?p=3&s=releaseDate&sd=2 HTTP/1.1" 200 35883
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/cases-covers--bags/?p=4&s=releaseDate&sd=2 HTTP/1.1" 200 36980
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/cases-covers--bags/?p=5&s=releaseDate&sd=2 HTTP/1.1" 200 35220
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/keyboards--mice/ HTTP/1.1" 200 34483
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/keyboards--mice/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 34077
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/keyboards--mice/?p=3&s=releaseDate&sd=2 HTTP/1.1" 200 29544
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/storage/ HTTP/1.1" 200 32941
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/storage/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 33530
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/all-computers--tablets/lexar/lexar-jumpdrive-s57-128gb-usb-3-0-teal/991620/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/lexar/lexar-jumpdrive-s57-128gb-usb-3-0-teal/991620/ HTTP/1.1" 200 25292
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/storage/?p=3&s=releaseDate&sd=2 HTTP/1.1" 200 33440
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/storage/?p=4&s=releaseDate&sd=2 HTTP/1.1" 200 34479
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/storage/?p=5&s=releaseDate&sd=2 HTTP/1.1" 200 34593
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/ HTTP/1.1" 200 34364
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-1-device-1-year-retail-box/718697/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-1-device-1-year-retail-box/718697/ HTTP/1.1" 200 25813
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-1-device-1-year-retail-box/314143/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-1-device-1-year-retail-box/314143/ HTTP/1.1" 200 25482
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-2-device-1-year-retail-box/718698/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-2-device-1-year-retail-box/718698/ HTTP/1.1" 200 25818
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-2-device-1-year-retail-box/314144/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-2-device-1-year-retail-box/314144/ HTTP/1.1" 200 25198
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-3-device-1-year-retail-box/718699/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-3-device-1-year-retail-box/718699/ HTTP/1.1" 200 29043
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-4-device-1-year-retail-box/314145/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-4-device-1-year-retail-box/314145/ HTTP/1.1" 200 26219
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-wi-fi-privacy-1-0-1-user-5-device-1-year-retail-box/350159/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-wi-fi-privacy-1-0-1-user-5-device-1-year-retail-box/350159/ HTTP/1.1" 200 26107
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-1-year-retail-box/718701/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-1-year-retail-box/718701/ HTTP/1.1" 200 30736
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-6-device-1-year-retail-box/314146/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-6-device-1-year-retail-box/314146/ HTTP/1.1" 200 28575
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-2-year-retail-box/718703/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-2-year-retail-box/718703/ HTTP/1.1" 200 28899
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-6-device-2-year-retail-box/314147/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/trend-micro/trend-micro-maximum-security-2017-6-device-2-year-retail-box/314147/ HTTP/1.1" 200 25002
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-1-year-retail-box/718701/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-1-year-retail-box/718701/ HTTP/1.1" 200 30261
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-2-year-retail-box/718703/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-2-year-retail-box/718703/ HTTP/1.1" 200 28899
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/?p=2&s=displayPrice&sd=1 HTTP/1.1" 200 30497
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-1-year-retail-box/718701/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-1-year-retail-box/718701/ HTTP/1.1" 200 30261
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-2-year-retail-box/718703/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-security-premium-3-0-1-user-5-device-2-year-retail-box/718703/ HTTP/1.1" 200 28899
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/monitors/ HTTP/1.1" 200 31494
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 26208
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software-digital-downloads/ HTTP/1.1" 200 33526
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software-digital-downloads/?p=2&s=displayPrice&sd=1 HTTP/1.1" 200 27655
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/projectors/ HTTP/1.1" 200 27000
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/ HTTP/1.1" 200 34555
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-x10-r9000-ad7200-smart-wi-fi-router/323518/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-x10-r9000-ad7200-smart-wi-fi-router/323518/ HTTP/1.1" 200 26165
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 31405
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-s8000-gaming-streaming-switch/399465/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-s8000-gaming-streaming-switch/399465/ HTTP/1.1" 200 26796
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 30928
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/?p=2&s=displayPrice&sd=2 HTTP/1.1" 200 34599
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-r6220-smart-wi-fi-router/993072/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-r6220-smart-wi-fi-router/993072/ HTTP/1.1" 200 28810
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-ac600-wi-fi-usb-mini-adapter/551662/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-ac600-wi-fi-usb-mini-adapter/551662/ HTTP/1.1" 200 26503
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 30928
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/?p=3&s=displayPrice&sd=2 HTTP/1.1" 200 28047
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-x8-r8500-ac5300-tri-band-gigabit-wi-fi-router/946750/ HTTP/1.1" 200 30928
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ebook-readers/ HTTP/1.1" 200 28012
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/ebook-readers/kindle/kindle-6-wi-fi-ereader-4gb-white/354723/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ebook-readers/kindle/kindle-6-wi-fi-ereader-4gb-white/354723/ HTTP/1.1" 200 24981
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/ HTTP/1.1" 200 30484
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-mg2560-all-in-one-photo-inkjet-printer/437643/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-mg2560-all-in-one-photo-inkjet-printer/437643/ HTTP/1.1" 200 29530
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-mg3660-all-in-one-printer/834434/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-mg3660-all-in-one-printer/834434/ HTTP/1.1" 200 26420
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-mg5760bk-all-in-one-printer/971159/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-mg5760bk-all-in-one-printer/971159/ HTTP/1.1" 200 29442
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-ts5060-all-in-one-printer/329178/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-ts5060-all-in-one-printer/329178/ HTTP/1.1" 200 26920
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-ts6060-all-in-one-printer/329177/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-ts6060-all-in-one-printer/329177/ HTTP/1.1" 200 26937
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-office-mx926-all-in-one-printer/396443/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-office-mx926-all-in-one-printer/396443/ HTTP/1.1" 200 28504
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-office-maxify-mb2760-all-in-one-printer/313290/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-office-maxify-mb2760-all-in-one-printer/313290/ HTTP/1.1" 200 27209
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-mg7765-printer/331758/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-mg7765-printer/331758/ HTTP/1.1" 200 26006
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/smart-home/ HTTP/1.1" 200 33764
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/smart-home/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 33901
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/ HTTP/1.1" 200 30563
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/?p=2&s=displayPrice&sd=1 HTTP/1.1" 200 30278
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/?p=3&s=displayPrice&sd=1 HTTP/1.1" 200 30457
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/?p=4&s=displayPrice&sd=1 HTTP/1.1" 200 30673
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/ink--toner/?p=5&s=displayPrice&sd=1 HTTP/1.1" 200 31484
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Factory-Scoop-Computers--Tablets/ HTTP/1.1" 200 31307
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/graphics-tablets/ HTTP/1.1" 200 29668
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/ HTTP/1.1" 200 34800
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i5-1tb/424031/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i5-1tb/424031/ HTTP/1.1" 200 30112
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-1tb/424032/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-1tb/424032/ HTTP/1.1" 200 30107
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-2tb/424033/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-2tb/424033/ HTTP/1.1" 200 30100
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 26040
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 33731
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 25675
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/software/norton/norton-wi-fi-privacy-1-0-1-user-5-device-1-year-retail-box/350159/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/software/norton/norton-wi-fi-privacy-1-0-1-user-5-device-1-year-retail-box/350159/ HTTP/1.1" 200 26107
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/?p=3&s=releaseDate&sd=2 HTTP/1.1" 200 36111
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 26214
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 29218
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/?p=4&s=releaseDate&sd=2 HTTP/1.1" 200 35267
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-ts6060-all-in-one-printer/329177/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-ts6060-all-in-one-printer/329177/ HTTP/1.1" 200 26937
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-ts5060-all-in-one-printer/329178/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-ts5060-all-in-one-printer/329178/ HTTP/1.1" 200 27384
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-11-y009tu-11-6-laptop-with-office-365-1yr-subscription/330176/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-11-y009tu-11-6-laptop-with-office-365-1yr-subscription/330176/ HTTP/1.1" 200 29004
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/all-computers--tablets/?p=5&s=releaseDate&sd=2 HTTP/1.1" 200 33846
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/Printers/canon/canon-pixma-home-mg7765-printer/331758/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/Printers/canon/canon-pixma-home-mg7765-printer/331758/ HTTP/1.1" 200 26010
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/networking/netgear/netgear-nighthawk-x10-r9000-ad7200-smart-wi-fi-router/323518/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/networking/netgear/netgear-nighthawk-x10-r9000-ad7200-smart-wi-fi-router/323518/ HTTP/1.1" 200 26178
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/apple/ HTTP/1.1" 301 149
+DEBUG:urllib3.connectionpool:"GET /apple/ HTTP/1.1" 200 21624
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/samsung/ HTTP/1.1" 200 31001
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/microsoft-logo/ HTTP/1.1" 200 32253
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-2tb/424033/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-2tb/424033/ HTTP/1.1" 200 30099
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-1tb/424032/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i7-1tb/424032/ HTTP/1.1" 200 30107
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/desktops/microsoft/microsoft-surface-studio-i5-1tb/424031/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/desktops/microsoft/microsoft-surface-studio-i5-1tb/424031/ HTTP/1.1" 200 30121
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/microsoft-logo/?p=2&s=displayPrice&sd=2 HTTP/1.1" 200 33057
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/microsoft-logo/?p=3&s=displayPrice&sd=2 HTTP/1.1" 200 26383
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/dell/ HTTP/1.1" 200 28696
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/google/ HTTP/1.1" 200 27808
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/hp/ HTTP/1.1" 200 29942
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/hp/?p=2&s=displayPrice&sd=1 HTTP/1.1" 200 32046
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-11-y009tu-11-6-laptop-with-office-365-1yr-subscription/330176/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-11-y009tu-11-6-laptop-with-office-365-1yr-subscription/330176/ HTTP/1.1" 200 29004
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-stream-x360-11-ab015tu-2-in-1-laptop-with-office-365-1yr-subscription-aqua-bl/350715/ HTTP/1.1" 200 26040
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/hp/?p=3&s=displayPrice&sd=1 HTTP/1.1" 200 30375
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/hp/hp-spectre-x360-13-ac037tu-touchscreen-laptop-256gb-ssd/398842/ HTTP/1.1" 200 25675
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/alienware-logo/ HTTP/1.1" 301 166
+DEBUG:urllib3.connectionpool:"GET /features/computers-tablets/alienware/ HTTP/1.1" 200 22779
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/acer/ HTTP/1.1" 200 28644
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/lenovo/ HTTP/1.1" 200 31271
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/asus/ HTTP/1.1" 200 26335
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/laptops/asus/asus-rog-strix-gl702vm-gc175t-17-gaming-notebook/331386/ HTTP/1.1" 200 29218
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/benq/ HTTP/1.1" 200 28777
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /computers-tablets/monitors/benq/benq-zowie-xl2730-27-144hz-qhd-gaming-monitor/351966/ HTTP/1.1" 200 26214
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/hd-televisions/ HTTP/1.1" 200 32784
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/hd-televisions/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 31366
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/Ultra-HD-Televisions/ HTTP/1.1" 200 32192
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/Ultra-HD-Televisions/?p=2&s=releaseDate&sd=2 HTTP/1.1" 200 27344
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/oled-televisions/ HTTP/1.1" 200 27135
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/ HTTP/1.1" 200 35320
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/sherwood/sherwood-alto621-bookshelf-speakers-black/335317/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/sherwood/sherwood-alto621-bookshelf-speakers-black/335317/ HTTP/1.1" 200 25128
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/sherwood/sherwood-ax-50-integrated-amplifier-with-bluetooth/335473/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/sherwood/sherwood-ax-50-integrated-amplifier-with-bluetooth/335473/ HTTP/1.1" 200 27216
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-3-2-way-indoor-outdoor-universal-speakers-white/327608/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-3-2-way-indoor-outdoor-universal-speakers-white/327608/ HTTP/1.1" 200 25393
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/wharfedale/wharfedale-xarus-xr-centre-speaker/12939/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/wharfedale/wharfedale-xarus-xr-centre-speaker/12939/ HTTP/1.1" 200 25190
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/wharfedale/wharfedale-xarus1000-bookshelf-speakers/12933/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/wharfedale/wharfedale-xarus1000-bookshelf-speakers/12933/ HTTP/1.1" 200 25050
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/mission/mission-mx1-bookshelf-speakers/318034/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/mission/mission-mx1-bookshelf-speakers/318034/ HTTP/1.1" 200 25107
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/mission/mission-mx3-floorstanding-speakers/318032/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/mission/mission-mx3-floorstanding-speakers/318032/ HTTP/1.1" 200 25694
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/mission/mission-mx2-bookshelf-speakers/318033/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/mission/mission-mx2-bookshelf-speakers/318033/ HTTP/1.1" 200 25122
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/pioneer/pioneer-vsx1131-7-2-channel-av-receiver/946447/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/pioneer/pioneer-vsx1131-7-2-channel-av-receiver/946447/ HTTP/1.1" 200 30810
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/pioneer/pioneer-vsx531-5-1-channel-av-receiver/946445/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/pioneer/pioneer-vsx531-5-1-channel-av-receiver/946445/ HTTP/1.1" 200 27984
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/pioneer/pioneer-vsx831-5-2-channel-av-receiver/946446/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/pioneer/pioneer-vsx831-5-2-channel-av-receiver/946446/ HTTP/1.1" 200 29655
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/sony/sony-strdh770-7-2-channel-home-cinema-av-receiver/944717/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/sony/sony-strdh770-7-2-channel-home-cinema-av-receiver/944717/ HTTP/1.1" 200 28596
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/audiolab/audiolab-m-one-integrated-amplifier-with-bluetooth-black/951646/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/audiolab/audiolab-m-one-integrated-amplifier-with-bluetooth-black/951646/ HTTP/1.1" 200 27470
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa850b-5-25-2-way-indoor-outdoor-universal-speakers-black/929606/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa850b-5-25-2-way-indoor-outdoor-universal-speakers-black/929606/ HTTP/1.1" 200 27541
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa850w-5-25-2-way-indoor-outdoor-universal-speakers-white/929607/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa850w-5-25-2-way-indoor-outdoor-universal-speakers-white/929607/ HTTP/1.1" 200 27512
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa360w-6-5-2-way-in-wall-ceiling-stereo-speakers/929603/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa360w-6-5-2-way-in-wall-ceiling-stereo-speakers/929603/ HTTP/1.1" 200 27308
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"HEAD /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa350w-5-25-2-way-in-wall-ceiling-stereo-speakers/929602/ HTTP/1.1" 200 0
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+DEBUG:urllib3.connectionpool:"GET /tv-home-entertainment/home-theatre/studio-acc/studio-acoustics-sa350w-5-25-2-way-in-wall-ceiling-stereo-speakers/929602/ HTTP/1.1" 200 27314
+INFO:urllib3.connectionpool:Starting new HTTPS connection (1): www.jbhifi.com.au
+ERROR:root:ERROR
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 516, in urlopen
+    body=body, headers=headers)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 304, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 724, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 237, in connect
+    ssl_version=resolved_ssl_version)
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 123, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.4/ssl.py", line 364, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.4/ssl.py", line 577, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.4/ssl.py", line 804, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 362, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 543, in urlopen
+    raise SSLError(e)
+urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/tupperware/JBHIFIWebCrawler/Programs/JBHIFIWebCrawler.py", line 242, in <module>
+    web_crawler()
+  File "/home/tupperware/JBHIFIWebCrawler/Programs/JBHIFIWebCrawler.py", line 87, in web_crawler
+    analyse_page(individualProductURL)
+  File "/home/tupperware/JBHIFIWebCrawler/Programs/JBHIFIWebCrawler.py", line 178, in analyse_page
+    res = requests.head(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 82, in head
+    return request('head', url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 49, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 457, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 569, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 420, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:600)
